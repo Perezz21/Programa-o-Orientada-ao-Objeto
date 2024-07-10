@@ -28,3 +28,6 @@
 
 ![gogumelo (2)](https://github.com/Perezz21/Programa-o-Orientada-ao-Objeto/assets/163039538/abcdfe8d-18b1-47fc-85ad-38f4d53131c9) **Questão 10**
 [Notas.zip](https://github.com/user-attachments/files/16168091/Notas.zip)
+
+# Observação!
+Os codigos colocados aqui são do aluno Thiago Andrade , por conta de eu não ter os codigos por reformatar o Notebook recentemente!😢
