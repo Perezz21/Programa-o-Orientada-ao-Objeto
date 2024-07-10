@@ -24,7 +24,7 @@
 
 ![New Piskel](https://github.com/Perezz21/Programa-o-Orientada-ao-Objeto/assets/163039538/7289ed8a-4661-4fc7-abe1-c2bacbd75100) [Aulas](https://github.com/Perezz21/Programa-o-Orientada-ao-Objeto/tree/main/Aulas)
 
-![New Piskel](https://github.com/Perezz21/Programa-o-Orientada-ao-Objeto/assets/163039538/7289ed8a-4661-4fc7-abe1-c2bacbd75100) [Trabalhos](https://github.com/Perezz21/Programa-o-Orientada-ao-Objeto/tree/main/Aulas)
+![New Piskel](https://github.com/Perezz21/Programa-o-Orientada-ao-Objeto/assets/163039538/7289ed8a-4661-4fc7-abe1-c2bacbd75100) [Trabalhos](https://github.com/Perezz21/Programa-o-Orientada-ao-Objeto/blob/main/Trabalho.md)
 
 ![icegif-1487 (2)](https://github.com/Perezz21/Programa-o-Orientada-ao-Objeto/assets/163039538/3293f92e-1f84-4529-a48c-509765e35a9f)  Caso não queria ver a matéria , se divertia jogando https://playmario.github.io/HTML5_Client/
 
