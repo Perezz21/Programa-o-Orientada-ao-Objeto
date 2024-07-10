@@ -8,5 +8,13 @@
 
 - Quinta - 7h30 às 9h10 - LEC 03
 
+## Ferramentas utilizada na matéria
 
-![image-Photoroom_resized_resized (1)](https://github.com/Perezz21/Programa-o-Orientada-ao-Objeto/assets/163039538/5c960e17-4ba5-4a56-8b32-3711f64f6e4f)
+![foguinho](https://github.com/Perezz21/Programa-o-Orientada-ao-Objeto/assets/163039538/e13b9b44-5ff4-4146-a9f9-f4186f94a770) IDE - https://netbeans.apache.org/front/main/index.html ou https://www.jetbrains.com/idea/
+
+![foguinho](https://github.com/Perezz21/Programa-o-Orientada-ao-Objeto/assets/163039538/e13b9b44-5ff4-4146-a9f9-f4186f94a770) Java - https://www.oracle.com/technetwork/java/javase/downloads
+
+## Bônus
+![foguinho](https://github.com/Perezz21/Programa-o-Orientada-ao-Objeto/assets/163039538/e13b9b44-5ff4-4146-a9f9-f4186f94a770) Criar um GitHub para organizar as atividades da disciplina(A meta é ganhar)
+
+![foguinho](https://github.com/Perezz21/Programa-o-Orientada-ao-Objeto/assets/163039538/e13b9b44-5ff4-4146-a9f9-f4186f94a770) Maior sequência de dias no Sololearn (Infelizmente me irritei e kitei desse)
