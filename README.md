@@ -1,5 +1,8 @@
 ![Object-Oriented-Programming-10-07-2024-Photoroom](https://github.com/Perezz21/Programa-o-Orientada-ao-Objeto/assets/163039538/2ac615c2-5dd1-4210-82d6-6927d481ebe3)
-### Ciência da Computação - ICET/UFJ
+#
+
+### Ciência da Computação - ICET/UFJ ![New Piskel (3)](https://github.com/user-attachments/assets/43ecc7ba-cc6a-44e6-897c-28bee5df95df)
+
 ### Discente: Pablo Ricardo Da Silva 
 
 ## Horário das Aulas
@@ -27,4 +30,3 @@
 ![New Piskel](https://github.com/Perezz21/Programa-o-Orientada-ao-Objeto/assets/163039538/7289ed8a-4661-4fc7-abe1-c2bacbd75100) [Trabalhos](https://github.com/Perezz21/Programa-o-Orientada-ao-Objeto/blob/main/Trabalho.md)
 
 ![icegif-1487 (2)](https://github.com/Perezz21/Programa-o-Orientada-ao-Objeto/assets/163039538/3293f92e-1f84-4529-a48c-509765e35a9f)  Caso não queria ver a matéria , se divertia jogando https://playmario.github.io/HTML5_Client/
-
