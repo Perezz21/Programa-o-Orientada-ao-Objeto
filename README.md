@@ -1,4 +1,5 @@
-![Object-Oriented-Programming-10-07-2024-Photoroom](https://github.com/Perezz21/Programa-o-Orientada-ao-Objeto/assets/163039538/2ac615c2-5dd1-4210-82d6-6927d481ebe3)
+![Object-oriented-programming-13-07-2024](https://github.com/user-attachments/assets/3edc7fc5-3b1e-470f-b862-997c4a806725)
+
 #
 
 ### Ciência da Computação - ICET/UFJ ![New Piskel (3)](https://github.com/user-attachments/assets/43ecc7ba-cc6a-44e6-897c-28bee5df95df)
