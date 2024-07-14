@@ -1,5 +1,6 @@
 
-![Work-10-07-2024_resized (1)-Photoroom](https://github.com/Perezz21/Programa-o-Orientada-ao-Objeto/assets/163039538/dde01a08-8680-4fa7-844b-8e192db32051)
+![Work-13-07-2024_resized (1)](https://github.com/user-attachments/assets/0fa82958-c7e9-485f-9ce1-78542c73c28d)
+
  # PDFs dos Trabalhos onde estão as questões!
 ![New Piskel (3)](https://github.com/user-attachments/assets/ba43ae6f-7881-4f8e-97bb-9a01c1ded1b5) [Trabalho 1 - Lista + Kahoot](https://github.com/brunamota/POO/files/15017615/Trabalho.1.-.POO.pdf)
 - Trabalho feito e entregue!😎
